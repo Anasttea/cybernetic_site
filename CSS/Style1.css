@@ -42,12 +42,16 @@ body {
     max-width: 1080px;
     min-width: 100%;
     box-sizing: border-box;
-    font-size: 2.5rem;
+    font-size: 2.2rem;
     color: #FFFFFF;
     background: url(../img/glavn.jpg) center center no-repeat;
     background-size: cover;
-    padding: 75px 500px 75px 60px;
+    padding: 75px 740px 75px 60px;
     line-height:1.2;
+}
+
+.main_k{
+    font-size: 5.0rem;
 }
 
 .text_inf {
@@ -58,43 +62,4 @@ body {
     text-align: left;
     font-weight: 300;
     padding: 55px 500px 45px 60px;
-}
-
-.S_txt {
-    margin: 0 0 24px 0;
-}
-.history {
-    color: black;
-    font-size: 1.5rem;
-    margin: 0 auto;
-    padding: 25px 500px 45px 60px;
-    line-height: 1.5;
-    margin: 0 0 24px;
-}
-.h_text {
-    color: black;
-    font-size: 1.1rem;
-    text-align: left;
-    font-weight: 300;
-    margin: 0 auto;
-    line-height: 1.5;
-}
-.application {
-    color: black;
-    font-size: 1.5rem;
-    margin: 0 auto;
-    padding: 25px 500px 45px 60px;
-    line-height: 1.5;
-}
-.use {
-    margin: 0 0 24px;
-}
-.a_text {
-    color: black;
-    font-size: 1.1rem;
-    text-align: left;
-    font-weight: 300;
-    margin: 0 auto;
-    line-height: 1.5;
-    margin: 0 0 24px;
 }
