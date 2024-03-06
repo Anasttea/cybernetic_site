@@ -61,5 +61,8 @@ body {
     box-sizing: border-box;
     text-align: left;
     font-weight: 300;
-    padding: 55px 500px 45px 60px;
+    padding: 30px 500px 30px 60px;
+}
+ol{
+    margin: 0 40px;
 }
