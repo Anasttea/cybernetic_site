@@ -27,18 +27,21 @@ body {
     font-weight: 700;
     font-size: 1.1rem;
 }
+
 .menu li {
     margin-left: 94px;
 }
+
 .menu li a {
     color: #5C459A;
     text-decoration: none;
 }
+
 .menu li a:hover {
     color: #000000;
 }
 
-.main{
+.main {
     max-width: 1080px;
     min-width: 100%;
     box-sizing: border-box;
@@ -47,10 +50,10 @@ body {
     background: url(../img/glavn.jpg) center center no-repeat;
     background-size: cover;
     padding: 75px 740px 75px 60px;
-    line-height:1.2;
+    line-height: 1.2;
 }
 
-.main_k{
+.main_k {
     font-size: 5.0rem;
 }
 
@@ -63,6 +66,34 @@ body {
     font-weight: 300;
     padding: 30px 500px 30px 60px;
 }
-ol{
+
+ol {
     margin: 0 40px;
 }
+
+.footer {
+    display: flex;
+    list-style: none;
+    font-weight: 400;
+    font-size: 1rem;
+    align-items: center;
+    box-sizing: border-box;
+    padding: 100px 0 10px 550px;
+    margin: 0 auto;
+
+}
+.mfooter li {
+    margin-left: 25px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: left;
+}
+.footer li a {
+    color: #000000;
+    text-decoration: none;
+}
+.footer li a:hover {
+    color: #5C459A;
+}
+
